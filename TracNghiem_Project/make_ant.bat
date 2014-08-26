@@ -1,0 +1,1 @@
+call %ANT_TOOL% %BUILD_MODE%

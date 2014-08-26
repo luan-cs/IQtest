@@ -1,0 +1,19 @@
+f:\HelloWorld\gen\com\example\tracnghiem\R.java \
+ : f:\HelloWorld\res\drawable-hdpi\hinhnen.gif \
+f:\HelloWorld\res\drawable-hdpi\ic_launcher.png \
+f:\HelloWorld\res\drawable-ldpi\ic_launcher.png \
+f:\HelloWorld\res\drawable-mdpi\ic_launcher.png \
+f:\HelloWorld\res\drawable-xhdpi\ic_launcher.png \
+f:\HelloWorld\res\drawable-xxhdpi\ic_launcher.png \
+f:\HelloWorld\res\layout\activity_main.xml \
+f:\HelloWorld\res\layout\activity_manhinhchao.xml \
+f:\HelloWorld\res\menu\main.xml \
+f:\HelloWorld\res\menu\manhinhchao.xml \
+f:\HelloWorld\res\values\dimens.xml \
+f:\HelloWorld\res\values\strings.xml \
+f:\HelloWorld\res\values\styles.xml \
+f:\HelloWorld\res\values-sw600dp\dimens.xml \
+f:\HelloWorld\res\values-sw720dp-land\dimens.xml \
+f:\HelloWorld\res\values-v11\styles.xml \
+f:\HelloWorld\res\values-v14\styles.xml \
+f:\HelloWorld\bin\AndroidManifest.xml \

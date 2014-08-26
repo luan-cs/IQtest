@@ -1,0 +1,21 @@
+f:\HelloWorld\bin\classes.dex : \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\BuildConfig.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\cauhoi.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\MainActivity$1.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\MainActivity$2.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\MainActivity$3.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\MainActivity.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\Manhinhchao.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\ManhinhchaoActivity$1.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\ManhinhchaoActivity.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\quanlycauhoi.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$attr.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$dimen.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$drawable.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$id.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$layout.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$menu.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$string.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R$style.class \
+f:\HelloWorld\bin\classes\com\example\tracnghiem\R.class \
+f:\HelloWorld\bin\dexedLibs\android-support-v4-bf16a863f31b93deac964e49b7872a88.jar \
